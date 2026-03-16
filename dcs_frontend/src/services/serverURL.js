@@ -1,1 +1,1 @@
-export const serverURL = "https://decision-companion-system-lyq7.onrender.com";
+export const serverURL = "https://dcs-backend-r65u.onrender.com";
